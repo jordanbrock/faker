@@ -30,7 +30,7 @@ module Faker
       end
       
       def domain_suffix
-        %w(co.uk com us uk ca biz info name).rand
+        %w(co.uk com us uk ca biz info name com.au org.au net.au).rand
       end
     end
   end
