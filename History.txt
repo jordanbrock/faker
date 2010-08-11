@@ -1,3 +1,6 @@
+== 0.3.2 2010-08-11
+* 1 major change
+  * Altered the country, state, postal code functions to be less US/UK Centric.
 == 0.3.1 2008-04-03
 * 1 minor enhancement:
   * Added city to Address
