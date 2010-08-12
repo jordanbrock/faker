@@ -63,8 +63,6 @@ module Faker
         end
       end
         
-      end
-      
       def city_prefix
         %w(North East West South New Lake Port).rand
       end
@@ -109,3 +107,4 @@ module Faker
       end
     end
   end
+end
