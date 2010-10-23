@@ -6,7 +6,7 @@ $:.unshift lib unless $:.include?(lib)
  
 Gem::Specification.new do |s|
   s.name        = "faker"
-  s.version     = Faker::VERSION
+  s.version     = "0.3.3" #Faker::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Benjamin Curtis", "Jordan Brock"]
   s.email       = ["jordan@brock.id.au"]
